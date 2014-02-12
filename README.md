@@ -6,7 +6,7 @@ Dry and simple gem for method overriding in non-inheritance contexts.
 
 This implementation is a **release candidate**.
 
-[![Code Climate](https://codeclimate.com/github/ebollens/ruby-extend_method.png)](https://codeclimate.com/github/ebollens/ruby-extend_method) [![Build Status](https://travis-ci.org/ebollens/ruby-extend_method.png)](https://travis-ci.org/ebollens/ruby-extend_method) [![Coverage Status](https://coveralls.io/repos/ebollens/ruby-extend_method/badge.png)](https://coveralls.io/r/ebollens/ruby-extend_method) [![Dependency Status](https://gemnasium.com/ebollens/ruby-extend_method.png)](https://gemnasium.com/ebollens/ruby-extend_method)
+[![Gem Version](https://badge.fury.io/rb/extend_method.png)](http://badge.fury.io/rb/extend_method) [![Code Climate](https://codeclimate.com/github/ebollens/ruby-extend_method.png)](https://codeclimate.com/github/ebollens/ruby-extend_method) [![Build Status](https://travis-ci.org/ebollens/ruby-extend_method.png)](https://travis-ci.org/ebollens/ruby-extend_method) [![Coverage Status](https://coveralls.io/repos/ebollens/ruby-extend_method/badge.png)](https://coveralls.io/r/ebollens/ruby-extend_method) [![Dependency Status](https://gemnasium.com/ebollens/ruby-extend_method.png)](https://gemnasium.com/ebollens/ruby-extend_method)
 
 Please report issues in the [issue tracker](https://github.com/ebollens/ruby-extend_method/issues). [Pull requests](https://github.com/ebollens/ruby-extend_method/pulls) are welcome.
 
